@@ -1,0 +1,22 @@
+{
+  "name": "ag-grid-tutorial",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "ag-grid-community": "^27.0.1",
+    "ag-grid-enterprise": "^27.1.0",
+    "ag-grid-react": "^27.0.1",
+    "csvjson-csv2json": "^5.0.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "vite": "^2.8.0"
+  }
+}
